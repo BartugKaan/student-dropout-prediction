@@ -1,0 +1,17 @@
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit temporary files
+.streamlit/
+
+# IDE files
+.vscode/
+
+# MacOS specific files
+.DS_Store
