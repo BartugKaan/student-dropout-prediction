@@ -419,7 +419,7 @@ if __name__ == "__main__":
     # Test the mapper
     mapper = create_input_mapper()
     
-    # Test Türkiye inputs (similar to the issue in the screenshot)
+    # Test Türkiye inputs
     turkey_inputs = {
         "age": 22,
         "yks_score": 289,
